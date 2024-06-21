@@ -1,5 +1,12 @@
 # Desktop App for Submissions Management
 
+## Google Drive Code Link: 
+https://drive.google.com/drive/folders/1OfWYSlj-pgZz_8Y9dzyLEK_DC3ufYteP
+
+### Note
+Due to compatibility issues, the code could not be uploaded to GitHub. Please use the Google Drive link provided above to access the code.
+
+
 ## Description
 This project is a Windows Desktop Application built using Visual Basic in Visual Studio. It allows users to create new submissions and view previously submitted forms. The application features keyboard shortcuts for improved usability.
 
@@ -20,10 +27,7 @@ This project is a Windows Desktop Application built using Visual Basic in Visual
 1. Download the project folder from the provided Google Drive link: [Google Drive Link](https://drive.google.com/drive/folders/1OfWYSlj-pgZz_8Y9dzyLEK_DC3ufYteP?usp=sharing)
 2. Extract the downloaded folder.
 3. Open the extracted project in Visual Studio.
-4. Build and run the application by pressing `F5`.
-
-### Note
-Due to compatibility issues, the code could not be uploaded to GitHub. Please use the Google Drive link provided above to access the code.
+4. Build and run the application by pressing `F5`.### Note
 
 ## Usage
 
