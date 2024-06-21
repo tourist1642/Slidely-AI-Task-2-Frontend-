@@ -24,6 +24,8 @@ This project is a Windows Desktop Application built using Visual Basic in Visual
 
 ### Running the Desktop App
 
+First of all implement teh backend Code which is located at [Backend Repository Link](https://github.com/tourist1642/Slidely-AI-Task-2-Backend-.git)
+
 1. Download the project folder from the provided Google Drive link: [Google Drive Link](https://drive.google.com/drive/folders/1OfWYSlj-pgZz_8Y9dzyLEK_DC3ufYteP?usp=sharing)
 2. Extract the downloaded folder.
 3. Open the extracted project in Visual Studio.
